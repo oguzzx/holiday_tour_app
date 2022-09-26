@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #C8B6E2;
+   
+}
+.title{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.title h2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.line{
+    width: 100px;
+    height: 4px;
+    background-color: black;
+    margin: 10px auto;
+    border-radius: 20px;
+}
